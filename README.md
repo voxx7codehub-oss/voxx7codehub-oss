@@ -1,11 +1,15 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Voxxy&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=22" alt="Voxxy Banner"/>
+</div>
 
-# Hey there, I'm Voxxy 👋
+<div align="center">
+
+### Hey there, I'm **Voxxy** 👋
 
 **Web developer in the making · Building cool stuff with HTML, CSS, TypeScript & AI**
 
-[![GitHub followers](https://img.shields.io/github/followers/voxx7codehub-oss?style=for-the-badge&logo=github&color=181717)](https://github.com/voxx7codehub-oss)
-[![Repos](https://img.shields.io/github/stars/voxx7codehub-oss?style=for-the-badge&logo=github&color=yellow)](https://github.com/voxx7codehub-oss?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/voxx7codehub-oss?style=for-the-badge&logo=github&color=0F2027)](https://github.com/voxx7codehub-oss)
+[![Repos](https://img.shields.io/github/stars/voxx7codehub-oss?style=for-the-badge&logo=github&color=2C5364)](https://github.com/voxx7codehub-oss?tab=repositories)
 
 </div>
 
@@ -42,12 +46,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voxx7codehub-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxx7codehub-oss&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voxx7codehub-oss&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxx7codehub-oss&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voxx7codehub-oss&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voxx7codehub-oss&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -58,7 +62,5 @@ I'm always open to feedback, collaboration, and learning from others.
 Feel free to explore my repos, open issues, or just say hi!
 
 <div align="center">
-
-⭐ **Thanks for stopping by!** ⭐
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="footer"/>
 </div>

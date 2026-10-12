@@ -1,21 +1,28 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0F2027,100:00D4FF&height=230&section=header&text=VOXXY&fontSize=85&fontColor=FFFFFF&fontAlignY=36&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="Voxxy futuristic header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Web+Developer+%7C+AI+Enthusiast;Turning+Ideas+Into+Working+Products;Building.+Learning.+Innovating.;Exploring+the+Future+of+Technology." alt="Animated developer introduction"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0F2027,100:00D4FF&height=230&section=header&text=VOXXY&fontSize=85&fontColor=FFFFFF&fontAlignY=36&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="VOXXY header"/>
 
 <br/>
+
+<img src="./voxxy-logo.png" width="180" alt="VOXXY neon circuit logo"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Web+Developer+%7C+AI+Enthusiast;Building+Digital+Experiences;Turning+Ideas+Into+Working+Products;Learn.+Build.+Innovate." alt="Developer introduction"/>
+
+<br/><br/>
 
 <a href="https://github.com/voxx7codehub-oss">
 <img src="https://img.shields.io/badge/GitHub-VOXX7CODEHUB--OSS-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub profile"/>
 </a>
+
 <a href="https://github.com/voxx7codehub-oss?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Projects-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Projects"/>
 </a>
 
 <br/><br/>
 
-**`WEB DEVELOPER`** &nbsp; • &nbsp; **`AI ENTHUSIAST`** &nbsp; • &nbsp; **`BUILDER`**
+**WEB DEVELOPER** · **AI ENTHUSIAST** · **BUILDER**
 
 *Code with purpose. Build with curiosity. Innovate without limits.*
 
@@ -23,28 +30,23 @@
 
 ---
 
-## `01 / ABOUT ME`
-
 ```yaml
 name: Voxxy
 role: Web Developer & AI Enthusiast
-currently_exploring:
+interests:
   - Modern Web Development
   - TypeScript & JavaScript
   - AI-Powered Applications
   - Full-Stack Development
 mindset: Learn by building
-mission: Turn creative ideas into useful technology
+mission: Turn ideas into useful digital products
 ```
 
 - Building web applications, validation tools, and ticket management systems.
-- Exploring the intersection of modern web development and artificial intelligence.
-- Focused on practical projects, clean interfaces, and continuous improvement.
-- Always learning, experimenting, and creating something new.
+- Exploring AI-powered applications and modern web technologies.
+- Focused on clean UI design, practical solutions, and continuous learning.
 
 ---
-
-## `02 / TECH ARSENAL`
 
 <div align="center">
 
@@ -52,7 +54,7 @@ mission: Turn creative ideas into useful technology
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FRONTEND-0D1117?style=flat-square&logoColor=00D4FF" alt="Frontend"/>
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-0D1117?style=flat-square" alt="Web development"/>
 <img src="https://img.shields.io/badge/AI_EXPLORATION-0D1117?style=flat-square" alt="AI exploration"/>
 <img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-0D1117?style=flat-square" alt="Continuous learning"/>
 
@@ -60,19 +62,15 @@ mission: Turn creative ideas into useful technology
 
 ---
 
-## `03 / SELECTED PROJECTS`
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ◈ Validate
 
-**AI-powered validation application**
+AI-powered validation application.
 
-Tools and experiments for smarter validation workflows.
-
-`TypeScript` `Web Development`
+`TypeScript` · `Web Development`
 
 <a href="https://github.com/voxx7codehub-oss/validate">VIEW REPOSITORY ↗</a>
 
@@ -81,11 +79,9 @@ Tools and experiments for smarter validation workflows.
 
 ### ◈ Validate 01
 
-**Validation experiments**
+Validation experiments and development.
 
-An evolving workspace for testing and refining validation features.
-
-`TypeScript` `Experimentation`
+`TypeScript` · `Experimentation`
 
 <a href="https://github.com/voxx7codehub-oss/validate-01">VIEW REPOSITORY ↗</a>
 
@@ -96,11 +92,9 @@ An evolving workspace for testing and refining validation features.
 
 ### ◈ Voxxyverze TicketHub
 
-**Ticket management platform**
+Ticket management website project.
 
-A web project focused on organizing ticket-related workflows.
-
-`HTML` `Web Development`
+`HTML` · `Web Development`
 
 <a href="https://github.com/voxx7codehub-oss/VOXXYVERZE-TICKETHUB">VIEW REPOSITORY ↗</a>
 
@@ -109,11 +103,9 @@ A web project focused on organizing ticket-related workflows.
 
 ### ◈ Complaint System
 
-**Awareness and complaint platform**
+Digital complaint and awareness platform.
 
-A project exploring digital complaint submission and awareness.
-
-`TypeScript` `Web Application`
+`TypeScript` · `Web Application`
 
 <a href="https://github.com/voxx7codehub-oss/complaint">VIEW REPOSITORY ↗</a>
 
@@ -123,17 +115,15 @@ A project exploring digital complaint submission and awareness.
 
 ---
 
-## `04 / GITHUB ANALYTICS`
-
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=voxx7codehub-oss&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxx7codehub-oss&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxx7codehub-oss&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=voxx7codehub-oss&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=voxx7codehub-oss&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
 
 <br/><br/>
 
@@ -143,32 +133,28 @@ A project exploring digital complaint submission and awareness.
 
 ---
 
-## `05 / THE DEVELOPER MINDSET`
-
 <div align="center">
 
-> "The best way to predict the future is to build it."
+> The best way to predict the future is to build it.
 
 **IDEATE → DEVELOP → TEST → IMPROVE → REPEAT**
 
-</div>
+*Every project is an opportunity to learn something new.*
 
----
+<br/>
 
-## `06 / CONNECT`
+Interested in collaboration, feedback, or building something useful together?
 
-<div align="center">
-
-Have an idea, feedback, or an interesting project? Let's build something useful.
-
-<a href="https://github.com/voxx7codehub-oss">
-<img src="https://img.shields.io/badge/Explore_My_Work-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Explore my work"/>
+<a href="https://github.com/voxx7codehub-oss?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Explore my work"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0F2027,100:050816&height=110&section=footer" width="100%" alt="Futuristic footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0F2027,100:050816&height=120&section=footer" width="100%" alt="Footer"/>
 
-<sub>DESIGNED WITH CODE · POWERED BY CURIOSITY · BUILT BY VOXXY</sub>
+**VOXXY** · DESIGNED WITH CODE · POWERED BY CURIOSITY
+
+<sub>BUILDING TODAY. INNOVATING TOMORROW.</sub>
 
 </div>
